@@ -17,6 +17,6 @@ pip install tabulate
 4. The game runs for 13 rounds, and the final scores are declared.
 
 ## Team Members
-
+[Rohan Khanna](https://github.com/ro-rok)\
 [Utakarsh Aggarwal](https://github.com/UtakarshAgg)\
 Abhishek Gajul
